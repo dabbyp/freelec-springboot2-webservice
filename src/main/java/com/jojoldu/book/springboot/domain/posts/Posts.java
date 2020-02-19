@@ -6,8 +6,8 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
-//@Getter
-//@NoArgsConstructor
+@Getter
+@NoArgsConstructor
 @Entity
 public class Posts {
     @Id
@@ -28,16 +28,5 @@ public class Posts {
         this.content = content;
         this.author = author;
     }
-
-    public String getTitle(){
-        return this.title;
-    }
-
-    public String getContent(){
-        return this.content;
-    }
-
-    public String getAuthor(){
-        return this.author;
-    }
 }
+
