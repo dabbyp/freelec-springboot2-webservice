@@ -1,0 +1,46 @@
+Ctrl+Shift+A : Action 검색
+ - plugins
+ - share project on github
+
+Ctrl + K : Commit Changes
+Ctrl + Shift + K : Push
+Ctrl + Shift + F : search all Files
+ 
+Intellij - GitHub local : C:\Users\CTI60\IdeaProjects\freelec-springboot2-webservice
+GitHub local cache : C:\Users\CTI60\Documents\GitHub\freelec-springboot2-webservice
+GitHub URL : 
+
+JPA
+----
+Controller -> Service -> Dto -> Entity
+ - Service 에서 Repository 메써드로 DB 처리
+
+
+OAuth2
+---------
+Google Client id  : 579460856706-tqto5opg9lu1lu5lrrrn2qn1d4vj573c.apps.googleusercontent.com
+                   pw : MlWTzxAqKYJYj8ZxYEZmiNCX
+
+------------------
+
+덕은지구 
+ - 삼정 : 4월
+ - GS : 6월, 하반기
+ - 주변시세 : 9억(35평형), 12억(40평형)
+ - 호재 : https://blog.naver.com/yk1209/221792810890 
+
+  65000 (염창동 매매)
+- 27000 (대출 상환)
+---------
+  38000
+
+  85000 (40평형 분양가)
+- 38000 (염창동 매매 차익)
+---------
+  47000
+  
+  47000
+- 34000 (대출, 9억미만 40%)
+---------
+  13000 (차액)
+
