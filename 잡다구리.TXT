@@ -5,10 +5,22 @@ Ctrl+Shift+A : Action 검색
 Ctrl + K : Commit Changes
 Ctrl + Shift + K : Push
 Ctrl + Shift + F : search all Files
- 
+Ctrl + Shift + R : search Java
+
 Intellij - GitHub local : C:\Users\CTI60\IdeaProjects\freelec-springboot2-webservice
 GitHub local cache : C:\Users\CTI60\Documents\GitHub\freelec-springboot2-webservice
-GitHub URL : 
+GitHub URL : https://github.com/dabbyp/freelec-springboot2-webservice.git
+
+스프링 시큐리티
+==============
+post : /oauth2/authorization/google
+ - 스프링부트2 시큐리티 기능에서 oauth2 연동을 위해 기본적으로 post url을 제공함
+redir : /login/oauth2/code/google
+ - 스프링부트2 시큐리티 기능에서 기본적으로 redir url을 제공함
+   (개발자가 별도로 redir을 구현하지 않아도 됨)
+로그인 사용자 권한 체크
+ - org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter
+   상속 클래스를 로딩하여 설정된 내용대로 권한체크 및 필요한 작업들을 수행
 
 JPA
 ----
