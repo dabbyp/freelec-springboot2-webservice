@@ -4,8 +4,9 @@ Ctrl+Shift+A : Action °Ë»ö
 
 Ctrl + K : Commit Changes
 Ctrl + Shift + K : Push
-Ctrl + Shift + F : search all Files
-Ctrl + Shift + R : search Java
+Ctrl + Shift + F : find in Path
+Ctrl + Shift + R : find in Scope
+Ctrl + Shift + N : find in Files (schema-mysql..)
 
 Intellij - GitHub local : C:\Users\CTI60\IdeaProjects\freelec-springboot2-webservice
 GitHub local cache : C:\Users\CTI60\Documents\GitHub\freelec-springboot2-webservice
